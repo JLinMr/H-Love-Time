@@ -77,6 +77,9 @@ footer a:hover {
   .twikoo {
         color: silver;
   }
+  .OwO .OwO-body {
+        background-color: #333!important;
+  }
 }
 
 ::-webkit-scrollbar {
@@ -92,9 +95,9 @@ footer a:hover {
 ::-webkit-scrollbar-thumb:hover {
     background-image: linear-gradient(-225deg,#fb00ffba 0,#00ffe5a6 100%)!important
 }      
-textarea#veditor:focus {
-    background-position-y: 150px;
-    transition: all .25s ease-in-out 0s;
+.twikoo .el-input__inner:focus, .twikoo .el-textarea__inner:focus {
+    background-position-y: 500px;
+    transition: all .35s ease-in-out .2s;
 }
 .tk-input .el-textarea__inner {
     min-height: 120px!important;
@@ -114,4 +117,8 @@ textarea#veditor:focus {
 }
 .tk-extras {
     font-size: 0.675rem!important;
+}
+  .OwO .OwO-body {
+    color: #8f8f8f!important;
+    border-radius: 10px!important;
 }
