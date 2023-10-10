@@ -77,6 +77,9 @@ footer a:hover {
   .twikoo {
         color: silver;
   }
+  img {
+    filter: brightness(70%) !important;
+  }
   .OwO .OwO-body {
         background-color: #333!important;
   }
@@ -121,4 +124,12 @@ footer a:hover {
   .OwO .OwO-body {
     color: #8f8f8f!important;
     border-radius: 10px!important;
+}
+.tk-login, .tk-regist {
+    display: revert!important;
+    flex-direction: column!important;
+    align-items: center!important;
+    width: unset!important;
+    padding: 0 4rem!important;
+
 }
