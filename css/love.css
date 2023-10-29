@@ -1,6 +1,21 @@
+/*----------------------------------------------
+                                               -
+JLin                                           -
+                                               -
+Date: 2021/03/17                               -
+                                               -
+update：2023/10/28                             -
+                                               -
+https://www.bsgun.cn 【写作不易】               -
+                                               -
+看见这个我希望你能够留下我信息                   -
+                                               -
+-----------------------------------------------*/
 * {
     margin: 0;
     padding: 0;
+    -webkit-user-select:none;
+    -moz-user-select:none;
 }
 
 a {
@@ -35,10 +50,15 @@ a {
     margin:auto;
 }
 
-.icp {
+.copyright {
     color: #ccc;
     margin: 10px 0 0;
     font-size: 11px;
+}
+
+.copyright img {
+    position: relative;
+    top: 5px;
 }
 
 footer a {
@@ -67,6 +87,9 @@ footer a:hover {
 @media screen and (max-width: 720px) {
     .twikoo {
         width: 95%!important;
+    }
+    .icp {
+        display: block;
     }
 }
 
