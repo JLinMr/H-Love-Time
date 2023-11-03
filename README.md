@@ -2,9 +2,17 @@
 
 一款自适应的恋爱计时网页
 
+![恋爱计时](https://s2.loli.net/2023/11/03/L96ZW3fgyGE5UFq.png)
+
 ### 时间配置
 
 `js`文件夹内`love.js`设置第`17`行的时间
+
+### 功能
+
+-  简洁优美
+-  自动明暗
+-  自适应化
 
 ### Demo
 
@@ -21,6 +29,7 @@
 ### Vercle部署
 
 >Vercel 等托管平台可在 Fork 后一键导入并自动部署
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JLinMr/H-Love-Time/&repository-name=H-Love-Time)
 
 ### twikoo 配置
