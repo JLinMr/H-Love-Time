@@ -2,7 +2,7 @@
 
 一款自适应的恋爱计时网页
 
-![恋爱计时](https://s2.loli.net/2023/11/03/L96ZW3fgyGE5UFq.png)
+![恋爱计时](https://i0.wp.com/s2.loli.net/2023/11/03/L96ZW3fgyGE5UFq.png)
 
 ### 时间配置
 
